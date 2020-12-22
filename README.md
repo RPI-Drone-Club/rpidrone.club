@@ -1,6 +1,9 @@
-# RPI Drone Club Website
+# RPI Drone Club Website - Final
 
 [Link](https://rpidrone.club)
+
+## Making Updates
+Make a pull request or if you're a contributor, just commit your updates to this repository. Make sure they work on your local machine first!
 
 ## Uploading Images
 
